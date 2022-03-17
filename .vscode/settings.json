@@ -1,0 +1,12 @@
+{
+    "cSpell.enableFiletypes": [
+        "gitignore",
+        "powershell",
+        "ruby",
+        "solidity",
+        "xml"
+    ],
+    "cSpell.words": [
+        "delegatecall"
+    ]
+}
