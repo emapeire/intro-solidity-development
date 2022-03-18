@@ -1,3 +1,12 @@
+# Intro a Ethereum Development
+
+This public repository was developed with the introduction to Solidity by Martín Triay.-
+
+Este reposotorio público se desarrolló con la introducción al desarrollo con Solidity por Martín Triay.-
+
+#### For more info go to / Para más información, ir a: <a href="https://intro-ethereum.marto.lol/">Martín Triay's Notion</a>
+________________________________________________________________________________________________________________________
+
 # Basic Sample Hardhat Project
 
 This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, a sample script that deploys that contract, and an example of a task implementation, which simply lists the available accounts.
