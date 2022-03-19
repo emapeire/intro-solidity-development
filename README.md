@@ -1,8 +1,8 @@
 # Intro a Ethereum Development
 
-This public repository was developed with the introduction to Solidity by Martín Triay.-
+This public repository was developed with the introduction to Solidity by Martín Triay.
 
-Este reposotorio público se desarrolló con la introducción al desarrollo con Solidity por Martín Triay.-
+Este reposotorio público se desarrolló con la introducción a Solidity por Martín Triay.
 
 #### For more info go to / Para más información, ir a: <a href="https://intro-ethereum.marto.lol/">Martín Triay's Notion</a>
 ________________________________________________________________________________________________________________________
