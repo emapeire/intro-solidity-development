@@ -5,7 +5,7 @@ This public repository was developed with the introduction to Solidity by Martí
 Este reposotorio público se desarrolló con la introducción a Solidity por Martín Triay.
 
 #### For more info go to / Para más información, ir a: <a href="https://intro-ethereum.marto.lol/">Martín Triay's Notion</a>
-________________________________________________________________________________________________________________________
+_________________________________________________________________________________________________________
 
 # Basic Sample Hardhat Project
 
