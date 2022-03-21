@@ -1,4 +1,4 @@
-# Intro a Ethereum Development
+# Intro to Ethereum Development
 
 This public repository was developed with the introduction to Solidity by Martín Triay.
 
